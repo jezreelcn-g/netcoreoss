@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jezreel.camacho\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jezreel.camacho\\.nuget\\packages"
+    ]
+  }
+}
